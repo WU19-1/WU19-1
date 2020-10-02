@@ -1,16 +1,21 @@
-### Hi there 👋
+### My name is Wahyu
+### Cyber Security Student and Teaching Assistant at Bina Nusantara University
 
-<!--
-**WU19-1/WU19-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Here are some programming languages that I familiar with
+- C, C++, Java, Python
+- PHP, Go, Laravel
+- Kotlin
 
-Here are some ideas to get you started:
+#### Other things that I have learnt
+- T-SQL
+- MongoDB
+- MySQL
+- Basic CLI Commands (Linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are my stats in github
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WU19-1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WU19-1)](https://github.com/anuraghazra/github-readme-stats)
+
+*Note : The percentage of Java and CSS is high because of some framework. (Java using nachOS 5.0j and CSS using Bootstrap)*
