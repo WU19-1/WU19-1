@@ -9,6 +9,9 @@
 - MongoDB
 - MySQL
 - Basic CLI Commands (Linux)
+- Basic HTML
+- Basic CSS
+- Basic JS
 
 Here are my stats in github
 
