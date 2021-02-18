@@ -12,6 +12,8 @@
 - Basic HTML
 - Basic CSS
 - Basic JS
+- Docker
+- Jenkins (Automated Build from Github Push via Webhooks)
 
 Here are my stats in github
 
