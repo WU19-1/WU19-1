@@ -1,8 +1,12 @@
 ### My name is Wahyu
 ### Cyber Security Student and Teaching Assistant at Bina Nusantara University
 #### Here are some programming languages that I familiar with
-- C, C++, Java, Python
-- PHP, Go, Laravel
+- C, C++
+- Java
+- Python
+- PHP
+- Go
+- Laravel
 - Kotlin
 #### Other things that I have learnt
 - T-SQL
@@ -14,6 +18,7 @@
 - Basic JS
 - Docker
 - Jenkins (Automated Build from Github Push via Webhooks)
+- Arduino IDE
 
 Here are my stats in github
 
