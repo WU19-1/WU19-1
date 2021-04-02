@@ -1,5 +1,5 @@
 ### My name is Wahyu
-### Cyber Security Student and Teaching Assistant at Bina Nusantara University
+### Cyber Security Student, Teaching Assistant and Subject Coordinator at Bina Nusantara University
 #### Here are some programming languages that I familiar with
 - C, C++
 - Java
@@ -19,6 +19,9 @@
 - Docker
 - Jenkins (Automated Build from Github Push via Webhooks)
 - Arduino IDE
+- Wireshark
+- Basic Snort
+- Basic Network Configuration in Cisco Packet Tracer
 
 Here are my stats in github
 
