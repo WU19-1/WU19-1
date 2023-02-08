@@ -1,5 +1,5 @@
 ### My name is Wahyu
-### Cyber Security Student, Teaching Assistant and Subject Coordinator at Bina Nusantara University
+### Cyber Security Graduate, ex Bluejack Teaching Assistant and Subject Coordinator at Bina Nusantara University
 #### Here are some programming languages that I familiar with
 - Python
 - C, C++
