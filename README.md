@@ -1,4 +1,4 @@
-### My name is Wahyu
+### My name is Wahyu.
 ### Cyber Security Graduate, ex Bluejack Teaching Assistant and Subject Coordinator at Bina Nusantara University
 #### Here are some programming languages that I familiar with
 - Python
@@ -22,6 +22,8 @@
 - Basic Snort
 - Basic Network Configuration in Cisco Packet Tracer
 - Server Configuration
+- Basic Ansible
+- Basic Mikrotik
 
 Here are my stats in github
 
