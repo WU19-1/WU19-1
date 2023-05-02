@@ -36,4 +36,4 @@ Here are my stats in github
 You can find me on :   
 Instagram : [https://www.instagram.com/wahyu123/](https://www.instagram.com/wahyu123/)  
 StackOverflow : [https://stackoverflow.com/users/13181126/wu191](https://stackoverflow.com/users/13181126/wu191)  
-Linked In : [https://www.linkedin.com/in/wahyu-wahyu-038aa91b4/](https://www.linkedin.com/in/wahyu-wahyu-038aa91b4/)  
+LinkedIn : [https://www.linkedin.com/in/wahyu-wahyu-038aa91b4/](https://www.linkedin.com/in/wahyu-wahyu-038aa91b4/)  
