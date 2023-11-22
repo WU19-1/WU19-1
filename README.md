@@ -34,6 +34,5 @@ Here are my stats in github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WU19-1&hide=java,css,html&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me on :   
-Instagram : [https://www.instagram.com/wahyu123/](https://www.instagram.com/wahyu123/)  
 StackOverflow : [https://stackoverflow.com/users/13181126/wu191](https://stackoverflow.com/users/13181126/wu191)  
 LinkedIn : [https://www.linkedin.com/in/wahyu-wahyu-038aa91b4/](https://www.linkedin.com/in/wahyu-wahyu-038aa91b4/)  
