@@ -1,6 +1,6 @@
 ### My name is Wahyu.
 
-### Currently working as IT Specialist - IT Security Group at Bank Central Asia (BCA)
+### Currently working as IT Specialist - Security Engineer at Bank Central Asia (BCA)
 ### Cyber Security Graduate, ex Bluejack Teaching Assistant and Subject Coordinator at Bina Nusantara University
 
 #### Here are some programming languages that I familiar with
